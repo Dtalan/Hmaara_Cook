@@ -2,6 +2,11 @@
 
 Hmaara Cook is a modern Android application built with Jetpack Compose that allows users to browse, search, and discover recipes. It features dynamic serving scaling, a random recipe finder, and local data persistence.
 
+## Screenshots
+| Home Screen | Recipe List | Recipe Detail | Randomiser |
+|:---:|:---:|:---:|:---:|
+| <img src="screenshots/home.png" width="200"> | <img src="screenshots/list.png" width="200"> | <img src="screenshots/detail.png" width="200"> | <img src="screenshots/randomiser.png" width="200"> |
+
 ## Table of Contents
 1. [Features](#features)
 2. [Tech Stack](#tech-stack)
