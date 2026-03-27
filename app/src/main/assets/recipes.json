@@ -1,0 +1,295 @@
+[
+  {
+    "id": 1,
+    "title": "Paneer Butter Masala",
+    "totalTime": 30,
+    "ingredientsList": [
+      {
+        "name": "Paneer",
+        "quantity": 250,
+        "unit": "g"
+      },
+      {
+        "name": "Butter",
+        "quantity": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": "1. Sauté ginger-garlic in {qty:Butter}. 2. Add tomato puree and spices. 3. Mix {qty:Paneer} and cream. Simmer for {time} minutes.",
+    "tags": [
+      "Veg",
+      "Creamy"
+    ],
+    "companionIds": [
+      2,
+      3
+    ],
+    "imageUrl": "local_assets/recipe_1.webp",
+    "cuisine": "North Indian",
+    "course": "Main Course",
+    "serves": 4,
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Jeera Rice",
+    "totalTime": 15,
+    "ingredientsList": [
+      {
+        "name": "Basmati Rice",
+        "quantity": 1,
+        "unit": "cup"
+      }
+    ],
+    "instructions": "1. Sauté cumin. 2. Add {qty:Basmati Rice} and water. 3. Pressure cook for {time} minutes.",
+    "tags": [
+      "Veg",
+      "Simple"
+    ],
+    "companionIds": [
+      1,
+      4
+    ],
+    "imageUrl": "local_assets/recipe_2.webp",
+    "cuisine": "Indian",
+    "course": "Main Course",
+    "serves": 4,
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Butter Garlic Naan",
+    "totalTime": 45,
+    "ingredientsList": [
+      {
+        "name": "Maida",
+        "quantity": 2,
+        "unit": "cups"
+      }
+    ],
+    "instructions": "1. Knead dough using {qty:Maida}. 2. Roll/apply garlic. 3. Cook on tawa for {time} minutes in total.",
+    "tags": [
+      "Veg",
+      "Bread"
+    ],
+    "companionIds": [
+      1,
+      5
+    ],
+    "imageUrl": "local_assets/recipe_3.webp",
+    "cuisine": "North Indian",
+    "course": "Side",
+    "serves": 4,
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Dal Tadka",
+    "totalTime": 25,
+    "ingredientsList": [
+      {
+        "name": "Toor Dal",
+        "quantity": 1,
+        "unit": "cup"
+      }
+    ],
+    "instructions": "1. Boil {qty:Toor Dal}. 2. Prepare tadka. 3. Pour over dal and simmer for {time} minutes.",
+    "tags": [
+      "Veg",
+      "Protein"
+    ],
+    "companionIds": [
+      2,
+      7
+    ],
+    "imageUrl": "local_assets/recipe_4.webp",
+    "cuisine": "Indian",
+    "course": "Main Course",
+    "serves": 4,
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Chicken Tikka",
+    "totalTime": 40,
+    "ingredientsList": [
+      {
+        "name": "Chicken",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "instructions": "1. Marinate {qty:Chicken}. 2. Skewer. 3. Grill for {time} minutes until tender.",
+    "tags": [
+      "Non-Veg",
+      "Grill"
+    ],
+    "companionIds": [
+      3,
+      24
+    ],
+    "imageUrl": "local_assets/recipe_5.webp",
+    "cuisine": "Punjabi",
+    "course": "Starter",
+    "serves": 4,
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Aloo Gobhi",
+    "totalTime": 25,
+    "ingredientsList": [
+      {
+        "name": "Potato",
+        "quantity": 2,
+        "unit": "pc"
+      }
+    ],
+    "instructions": "1. Sauté {qty:Potato} and cauliflower. 2. Add spices. 3. Cook dry for {time} minutes.",
+    "tags": [
+      "Veg",
+      "Everyday"
+    ],
+    "companionIds": [
+      7
+    ],
+    "imageUrl": "local_assets/recipe_6.webp",
+    "cuisine": "North Indian",
+    "course": "Main Course",
+    "serves": 4,
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Tawa Roti",
+    "totalTime": 20,
+    "ingredientsList": [
+      {
+        "name": "Atta",
+        "quantity": 2,
+        "unit": "cups"
+      }
+    ],
+    "instructions": "1. Knead {qty:Atta}. 2. Roll. 3. Puff on flame. Total process takes {time} minutes.",
+    "tags": [
+      "Veg",
+      "Healthy"
+    ],
+    "companionIds": [
+      4,
+      6,
+      8
+    ],
+    "imageUrl": "local_assets/recipe_7.webp",
+    "cuisine": "Indian",
+    "course": "Side",
+    "serves": 4,
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Palak Paneer",
+    "totalTime": 30,
+    "ingredientsList": [
+      {
+        "name": "Spinach",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "instructions": "1. Blanch/Puree {qty:Spinach}. 2. Sauté garlic. 3. Simmer with paneer for {time} minutes.",
+    "tags": [
+      "Veg",
+      "Iron-Rich"
+    ],
+    "companionIds": [
+      7,
+      3
+    ],
+    "imageUrl": "local_assets/recipe_8.webp",
+    "cuisine": "North Indian",
+    "course": "Main Course",
+    "serves": 4,
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Chana Masala",
+    "totalTime": 40,
+    "ingredientsList": [
+      {
+        "name": "Chickpeas",
+        "quantity": 2,
+        "unit": "cups"
+      }
+    ],
+    "instructions": "1. Sauté onion base. 2. Add boiled {qty:Chickpeas}. 3. Simmer for {time} minutes.",
+    "tags": [
+      "Veg",
+      "Spicy"
+    ],
+    "companionIds": [
+      10
+    ],
+    "imageUrl": "local_assets/recipe_9.webp",
+    "cuisine": "Punjabi",
+    "course": "Main Course",
+    "serves": 4,
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Poori",
+    "totalTime": 30,
+    "ingredientsList": [
+      {
+        "name": "Wheat Flour",
+        "quantity": 2,
+        "unit": "cups"
+      }
+    ],
+    "instructions": "1. Roll small balls from {qty:Wheat Flour}. 2. Deep fry. Total time {time} minutes.",
+    "tags": [
+      "Veg",
+      "Fried"
+    ],
+    "companionIds": [
+      9,
+      11
+    ],
+    "imageUrl": "local_assets/recipe_10.webp",
+    "cuisine": "Indian",
+    "course": "Breakfast",
+    "serves": 4,
+    "mealTimes": [
+      "breakfast"
+    ]
+  }
+]
